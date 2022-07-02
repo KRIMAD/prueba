@@ -1,0 +1,202 @@
+body {
+	background: #fff;
+	background-image: url(fondo.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-position: center;
+
+	color: #fff;
+
+	margin: 0;
+    padding: 0;
+    
+    
+    font-family: sans-serif;
+}
+
+h1,h2{
+	color: #2A2A46;
+	font-size: 50px;
+}
+
+h1{ 
+	font-size: 40px; 
+}
+
+p a{
+	color: #1D334A;
+}
+
+
+
+.box {
+  border: 5px solid rebeccapurple;
+  background-color: 	lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 300px;
+  height: 150px;
+  position: relative;
+	top: -230px;
+	bottom: 0;
+	right: 0px;
+	left: 1400px;
+}
+
+.alternate {
+  box-sizing: border-box;
+}
+
+.box2{
+	border: 5px solid rebeccapurple;
+  background-color: lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 300px;
+  height: 150px;
+	position: relative;
+	top: -200px;
+	bottom: 0;
+	right: 0;
+	left: 1400px;
+}
+.box3{
+	border: 5px solid rebeccapurple;
+  background-color: lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 300px;
+  height: 150px;
+	position: relative;
+	top: -180px;
+	bottom: 0;
+	right: 0;
+	left: 1400px;
+}
+
+.pr {
+	max-width: 300px;
+	max-height: 250px;
+	position: relative;
+	top: 20px;
+	bottom: 0;
+	right: 0;
+	 height: 150px;
+	left: 1150px;
+}
+.pr2 {
+	max-width: 300px;
+	max-height: 250px;
+	position: relative;
+	top: 215px;
+	bottom: 0;
+	right: 0;
+	left: 850px;
+}
+.pr3 {
+	max-width: 300px;
+	max-height: 250px;
+	position: relative;
+	top: 439px;
+	bottom: 0;
+	right: 0;
+	left: 340px;
+}
+
+.pr7 {
+	max-width: 300px;
+	max-height: 290px;
+	position: relative;
+	top: 260px;
+	bottom: 0;
+	right: 0;
+	left: -280px;
+}
+
+.box7 {
+  border: 5px solid rebeccapurple;
+  background-color: 	lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 300px;
+  height: 150px;
+  position: relative;
+	top: -140px;
+	bottom: 0;
+	right: 0px;
+	left: 1400px;
+}
+
+.pr8 {
+	max-width: 300px;
+	max-height: 290px;
+	position: relative;
+	top: 670px;
+	bottom: 0;
+	right: 0;
+	left: 8px;
+}
+
+.box9 {
+  border: 5px solid rebeccapurple;
+  background-color: 	lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 300px;
+  height: 150px;
+  position: relative;
+	top: -110px;
+	bottom: 0;
+	right: 0px;
+	left: 1400px;
+}
+
+
+.box10 {
+  border: 5px solid rebeccapurple;
+  background-color: 	lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 300px;
+  height: 150px;
+  position: relative;
+	top: -735px;
+	bottom: 0;
+	right: 0px;
+	left: 200px;
+}
+.box11 {
+  border: 5px solid rebeccapurple;
+  background-color: 	lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 300px;
+  height: 150px;
+  position: relative;
+	top: -920px;
+	bottom: 0;
+	right: 0px;
+	left: 650px;
+}
+
+.pr12 {
+	max-width: 300px;
+	max-height: 290px;
+	position: relative;
+	top: 320px;
+	bottom: 0;
+	right: 0;
+	left: -711px;
+}
+
+
+
+
+.navv{
+
+}
+
+
+
+
